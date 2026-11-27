@@ -32,5 +32,5 @@ We used `set.seed()` so that the random steps (sampling, SMOTE, train/test split
 
 ## Files
 
-- `BRFSS.project.R` – main analysis code  <!-- change to your actual file names -->
-- `CS699_Term_Project.pdf` – final presentation
+- `BRFSS.project.R` main analysis code  
+- `CS699_Term_Project.pdf` final presentation
